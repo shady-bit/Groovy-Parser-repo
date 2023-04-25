@@ -1,0 +1,6 @@
+23-04-25 12:00:00                                         STATUSCODE  STATUSCODE DESC     TERMINAL00100
+23-04-25 12:00:00                                         STATUSCODE  STATUSCODE DESC     TERMINAL00100
+23-04-25 12:00:00                                         STATUSCODE  STATUSCODE DESC     TERMINAL00100
+23-04-25 12:00:00                                         STATUSCODE  STATUSCODE DESC     TERMINAL00100
+23-04-25 12:00:00                                         STATUSCODE  STATUSCODE DESC     TERMINAL00100
+23-04-25 12:00:00                                         STATUSCODE  STATUSCODE DESC     TERMINAL00100
